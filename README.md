@@ -1,3 +1,5 @@
+Fully outdated
+
 # react-native-motion-manager
 
 CMMotionManager wrapper for react-native, exposing Accelerometer, Gyroscope, and Magnetometer.
